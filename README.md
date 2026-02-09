@@ -1,0 +1,2 @@
+# Crime-Incident-Data-Analysis-Visualization-Individual_Incident_2020
+Data Analysis Project on the Individual Incident dataset using Python, SQL, Excel, and Power BI. The project includes data cleaning, data preprocessing, exploratory data analysis (EDA), statistical analysis, SQL querying, and interactive dashboard development to identify crime trends, victim demographics, risk factors, and correlation insights.
